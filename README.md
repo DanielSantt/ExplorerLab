@@ -1,5 +1,5 @@
 <h1 align="center"> Explorer Lab #01 </h1>
-<h2> Link Deploy: https://explorerlab-three.vercel.app/ </h2>
+<h2 align="center"> Link Deploy: https://explorerlab-three.vercel.app/ </h2>
 
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
